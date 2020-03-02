@@ -1,7 +1,7 @@
 
 
 
-public class HelloWorld {
+public class GoodBye!! {
     
     //modificacio
     // Canvi al repo2

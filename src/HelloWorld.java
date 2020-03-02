@@ -11,5 +11,7 @@ public class HelloWorld {
     public static satanicMethod666(int i)
     {
     }
+	
+	//canvi catalin
 }
 
